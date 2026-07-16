@@ -69,14 +69,14 @@ def MemoryScan():
 # ─── Feature 4 : Email Report ─────────────────────────────────────────────────
 def SendEmail(ReceiverMail, LogFilePath, SummaryText):
     """Send email with log file attachment and summary."""
-    SenderMail     = "sejalforclass@gmail.com"
+    SenderMail     = "sakshi152005@gmail.com"
     SenderPassword = "aihj sflr zrvx tmie"
 
     try:
         msg = MIMEMultipart()
         msg["From"]    = SenderMail
         msg["To"]      = ReceiverMail
-        msg["Subject"] = "Marvellous Platform Surveillance Report - " + time.ctime()
+        msg["Subject"] = " Platform Surveillance Report - " + time.ctime()
 
         msg.attach(MIMEText(SummaryText, "plain"))
 
