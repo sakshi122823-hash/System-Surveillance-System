@@ -69,7 +69,7 @@ def MemoryScan():
 # ─── Feature 4 : Email Report ─────────────────────────────────────────────────
 def SendEmail(ReceiverMail, LogFilePath, SummaryText):
     """Send email with log file attachment and summary."""
-    SenderMail     = "sakshi152005@gmail.com"
+    SenderMail     = "checkcheck@gmail.com"
     SenderPassword = "aihj sflr zrvx tmie"
 
     try:
