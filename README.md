@@ -1,27 +1,30 @@
-System Surveillance System
+Developed a Python-based automation script to detect and delete duplicate files from a directory 
+periodically. The system automatically generates log files of operations performed and shares them via email 
+for audit purposes.  
+• Implemented checksum-based duplicate detection using hashlib (MD5).  
+• Automated log generation with timestamps for every execution.  
+• Used schedule library for periodic execution of duplicate file cleanup.
 
-A Python command-line tool  that periodically scans your system (CPU, RAM, disk, network, and per-process stats) and writes the results to a timestamped log file, then emails a summary report with the log attached.
+Duplicate File Cleaner
+
+Python automation tool to detect and remove duplicate files using MD5 hashing.
 
 Features
 
+Detects duplicate files
+Removes duplicate copies
+Generates log reports
+Displays execution time
+Tech Stack
 
-Process Scan — PID, name, username, status, create time, CPU %, memory %
-Thread Monitoring — thread count per running process
-Open Files Monitoring — count of open file descriptors per process
-Memory Allocation — RSS (actual RAM) and VMS (virtual memory) per process, plus a Top 10 by memory usage
-System Usage — overall CPU %, RAM %, disk usage per partition, network bytes sent/received
-Automatic Logging — writes everything to a timestamped .log file in a directory you choose
-Scheduled Execution — runs automatically every N minutes using the schedule library
-Email Reports — sends a summary email (Top 5 CPU/Memory/Thread/Open-Files processes) with the full log file attached via Gmail SMTP
+Python
+hashlib
+os
+sys
+How To Run
 
+python main.py Demo
 
-Requirements
+Example
 
-
-Python 3
-Dependencies:
-
-
-bash  pip install psutil schedule
-
-(smtplib, email, sys, os, time are part of the Python standard library.)
+The script scans the "Demo" folder, detects duplicate files, removes duplicates, and stores logs in "Log.txt".
