@@ -1,0 +1,1074 @@
+--------------------------------------------------
+-----Marvellous Platfrom Surveillance System -----
+Log created at:Thu Jul 16 12:49:55 2026
+--------------------------------------------------
+
+---------------system usage ---------------
+cpu usage : 18.5 %
+ram usage 67.1 %
+--------------------------------------------------
+
+disk usage report
+C:\ -> 25.7 % used
+--------------------------------------------------
+
+network usage report
+sent : 26.52 MB
+recv : 880.24 MB
+--------------------------------------------------
+
+---------------thread monitoring---------------
+Timestamp: Thu Jul 16 12:49:55 2026
+--------------------------------------------------
+Process Name : System Idle Process
+PID          : 0
+Thread Count : 36
+--------------------------------------------------
+Process Name : System
+PID          : 4
+Thread Count : 381
+--------------------------------------------------
+Process Name : lsass.exe
+PID          : 8
+Thread Count : 12
+--------------------------------------------------
+Process Name : 
+PID          : 188
+Thread Count : 0
+--------------------------------------------------
+Process Name : Registry
+PID          : 232
+Thread Count : 4
+--------------------------------------------------
+Process Name : smss.exe
+PID          : 908
+Thread Count : 2
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 928
+Thread Count : 8
+--------------------------------------------------
+Process Name : ipf_helper.exe
+PID          : 1000
+Thread Count : 4
+--------------------------------------------------
+Process Name : StartMenuExperienceHost.exe
+PID          : 1064
+Thread Count : 18
+--------------------------------------------------
+Process Name : WmiApSrv.exe
+PID          : 1384
+Thread Count : 3
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 1452
+Thread Count : 4
+--------------------------------------------------
+Process Name : msedge.exe
+PID          : 1580
+Thread Count : 27
+--------------------------------------------------
+Process Name : csrss.exe
+PID          : 1788
+Thread Count : 15
+--------------------------------------------------
+Process Name : wininit.exe
+PID          : 1876
+Thread Count : 2
+--------------------------------------------------
+Process Name : winlogon.exe
+PID          : 1972
+Thread Count : 6
+--------------------------------------------------
+Process Name : services.exe
+PID          : 2020
+Thread Count : 9
+--------------------------------------------------
+Process Name : LsaIso.exe
+PID          : 2036
+Thread Count : 1
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 2060
+Thread Count : 5
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 2140
+Thread Count : 32
+--------------------------------------------------
+Process Name : fontdrvhost.exe
+PID          : 2168
+Thread Count : 5
+--------------------------------------------------
+Process Name : OverlayHelper.exe
+PID          : 2176
+Thread Count : 23
+--------------------------------------------------
+Process Name : WUDFHost.exe
+PID          : 2188
+Thread Count : 5
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 2304
+Thread Count : 15
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 2352
+Thread Count : 6
+--------------------------------------------------
+Process Name : WUDFHost.exe
+PID          : 2400
+Thread Count : 22
+--------------------------------------------------
+Process Name : AggregatorHost.exe
+PID          : 2524
+Thread Count : 2
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 2540
+Thread Count : 3
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 2548
+Thread Count : 4
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 2564
+Thread Count : 4
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 2676
+Thread Count : 3
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 2724
+Thread Count : 3
+--------------------------------------------------
+Process Name : WINWORD.EXE
+PID          : 2740
+Thread Count : 38
+--------------------------------------------------
+Process Name : WUDFHost.exe
+PID          : 2744
+Thread Count : 10
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 2752
+Thread Count : 11
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 2760
+Thread Count : 5
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 2776
+Thread Count : 5
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 2808
+Thread Count : 15
+--------------------------------------------------
+Process Name : msedge.exe
+PID          : 2872
+Thread Count : 23
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 2892
+Thread Count : 14
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 2940
+Thread Count : 8
+--------------------------------------------------
+Process Name : IntelCpHDCPSvc.exe
+PID          : 2968
+Thread Count : 3
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 2980
+Thread Count : 8
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 3004
+Thread Count : 10
+--------------------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 3020
+Thread Count : 6
+--------------------------------------------------
+Process Name : WhatsApp.Root.exe
+PID          : 3028
+Thread Count : 35
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 3132
+Thread Count : 3
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 3188
+Thread Count : 7
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 3220
+Thread Count : 4
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 3304
+Thread Count : 5
+--------------------------------------------------
+Process Name : WidgetService.exe
+PID          : 3308
+Thread Count : 6
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 3328
+Thread Count : 8
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 3376
+Thread Count : 7
+--------------------------------------------------
+Process Name : fontdrvhost.exe
+PID          : 3412
+Thread Count : 5
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 3456
+Thread Count : 1
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 3468
+Thread Count : 6
+--------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 3480
+Thread Count : 21
+--------------------------------------------------
+Process Name : AppActions.exe
+PID          : 3496
+Thread Count : 7
+--------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 3560
+Thread Count : 30
+--------------------------------------------------
+Process Name : ms-teams.exe
+PID          : 3600
+Thread Count : 51
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 3684
+Thread Count : 6
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 3788
+Thread Count : 2
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 3900
+Thread Count : 6
+--------------------------------------------------
+Process Name : backgroundTaskHost.exe
+PID          : 3928
+Thread Count : 10
+--------------------------------------------------
+Process Name : SynTPEnhService.exe
+PID          : 4020
+Thread Count : 9
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 4152
+Thread Count : 2
+--------------------------------------------------
+Process Name : Code.exe
+PID          : 4184
+Thread Count : 21
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 4196
+Thread Count : 7
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 4228
+Thread Count : 4
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 4236
+Thread Count : 3
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 4240
+Thread Count : 5
+--------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 4316
+Thread Count : 10
+--------------------------------------------------
+Process Name : MemCompression
+PID          : 4340
+Thread Count : 82
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 4384
+Thread Count : 3
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 4444
+Thread Count : 3
+--------------------------------------------------
+Process Name : NetworkCap.exe
+PID          : 4452
+Thread Count : 4
+--------------------------------------------------
+Process Name : SysInfoCap.exe
+PID          : 4460
+Thread Count : 23
+--------------------------------------------------
+Process Name : TouchpointAnalyticsClientService.exe
+PID          : 4468
+Thread Count : 32
+--------------------------------------------------
+Process Name : DiagsCap.exe
+PID          : 4476
+Thread Count : 4
+--------------------------------------------------
+Process Name : AppHelperCap.exe
+PID          : 4484
+Thread Count : 4
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 4492
+Thread Count : 6
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 4696
+Thread Count : 10
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 4732
+Thread Count : 8
+--------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 4796
+Thread Count : 24
+--------------------------------------------------
+Process Name : hp-one-agent-service.exe
+PID          : 4824
+Thread Count : 15
+--------------------------------------------------
+Process Name : Code.exe
+PID          : 4848
+Thread Count : 27
+--------------------------------------------------
+Process Name : Spotify.exe
+PID          : 4872
+Thread Count : 28
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 4896
+Thread Count : 6
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 5080
+Thread Count : 17
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 5116
+Thread Count : 5
+--------------------------------------------------
+Process Name : powershell.exe
+PID          : 5128
+Thread Count : 13
+--------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 5164
+Thread Count : 22
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 5336
+Thread Count : 5
+--------------------------------------------------
+Process Name : WmiPrvSE.exe
+PID          : 5384
+Thread Count : 8
+--------------------------------------------------
+Process Name : dllhost.exe
+PID          : 5432
+Thread Count : 2
+--------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 5456
+Thread Count : 19
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 5460
+Thread Count : 12
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 5492
+Thread Count : 7
+--------------------------------------------------
+Process Name : spoolsv.exe
+PID          : 5544
+Thread Count : 15
+--------------------------------------------------
+Process Name : unsecapp.exe
+PID          : 5592
+Thread Count : 3
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 5656
+Thread Count : 15
+--------------------------------------------------
+Process Name : WmiPrvSE.exe
+PID          : 5796
+Thread Count : 13
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 5892
+Thread Count : 6
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 5960
+Thread Count : 2
+--------------------------------------------------
+Process Name : HPCommRecovery.exe
+PID          : 6060
+Thread Count : 8
+--------------------------------------------------
+Process Name : HPPrintScanDoctorService.exe
+PID          : 6072
+Thread Count : 3
+--------------------------------------------------
+Process Name : IntelAudioService.exe
+PID          : 6080
+Thread Count : 7
+--------------------------------------------------
+Process Name : nssm.exe
+PID          : 6088
+Thread Count : 1
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 6108
+Thread Count : 6
+--------------------------------------------------
+Process Name : ipf_uf.exe
+PID          : 6116
+Thread Count : 5
+--------------------------------------------------
+Process Name : avp.exe
+PID          : 6124
+Thread Count : 145
+--------------------------------------------------
+Process Name : ipfsvc.exe
+PID          : 6152
+Thread Count : 7
+--------------------------------------------------
+Process Name : OfficeClickToRun.exe
+PID          : 6164
+Thread Count : 18
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 6172
+Thread Count : 6
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 6188
+Thread Count : 13
+--------------------------------------------------
+Process Name : jhi_service.exe
+PID          : 6196
+Thread Count : 2
+--------------------------------------------------
+Process Name : RtkAudUService64.exe
+PID          : 6316
+Thread Count : 33
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 6324
+Thread Count : 1
+--------------------------------------------------
+Process Name : RtkBtManServ.exe
+PID          : 6372
+Thread Count : 3
+--------------------------------------------------
+Process Name : MpDefenderCoreService.exe
+PID          : 6388
+Thread Count : 10
+--------------------------------------------------
+Process Name : USBAppControl.exe
+PID          : 6440
+Thread Count : 5
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 6448
+Thread Count : 3
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 6460
+Thread Count : 2
+--------------------------------------------------
+Process Name : WorkflowAppControl.exe
+PID          : 6468
+Thread Count : 7
+--------------------------------------------------
+Process Name : WMIRegistrationService.exe
+PID          : 6488
+Thread Count : 2
+--------------------------------------------------
+Process Name : MsMpEng.exe
+PID          : 6496
+Thread Count : 57
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 6508
+Thread Count : 8
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 6556
+Thread Count : 2
+--------------------------------------------------
+Process Name : SECOMN64.exe
+PID          : 6604
+Thread Count : 13
+--------------------------------------------------
+Process Name : expressvpnd.exe
+PID          : 6668
+Thread Count : 16
+--------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 6732
+Thread Count : 8
+--------------------------------------------------
+Process Name : Code.exe
+PID          : 6960
+Thread Count : 16
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 7172
+Thread Count : 7
+--------------------------------------------------
+Process Name : conhost.exe
+PID          : 7216
+Thread Count : 4
+--------------------------------------------------
+Process Name : ReconsentNotification.exe
+PID          : 7516
+Thread Count : 12
+--------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 7688
+Thread Count : 26
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 7744
+Thread Count : 9
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 7976
+Thread Count : 10
+--------------------------------------------------
+Process Name : ApplicationFrameHost.exe
+PID          : 8104
+Thread Count : 6
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 8148
+Thread Count : 4
+--------------------------------------------------
+Process Name : SearchProtocolHost.exe
+PID          : 8204
+Thread Count : 5
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 8308
+Thread Count : 29
+--------------------------------------------------
+Process Name : IntelGraphicsSoftware.Service.exe
+PID          : 8388
+Thread Count : 16
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 8648
+Thread Count : 2
+--------------------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 8812
+Thread Count : 2
+--------------------------------------------------
+Process Name : IGCCTray.exe
+PID          : 8900
+Thread Count : 8
+--------------------------------------------------
+Process Name : M365Copilot.exe
+PID          : 9188
+Thread Count : 41
+--------------------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 9284
+Thread Count : 12
+--------------------------------------------------
+Process Name : csrss.exe
+PID          : 9300
+Thread Count : 17
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 9396
+Thread Count : 8
+--------------------------------------------------
+Process Name : msedge.exe
+PID          : 9668
+Thread Count : 26
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 9784
+Thread Count : 11
+--------------------------------------------------
+Process Name : msedge.exe
+PID          : 9848
+Thread Count : 11
+--------------------------------------------------
+Process Name : ai.exe
+PID          : 9972
+Thread Count : 17
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 10096
+Thread Count : 12
+--------------------------------------------------
+Process Name : PresentMonService.exe
+PID          : 10100
+Thread Count : 12
+--------------------------------------------------
+Process Name : conhost.exe
+PID          : 10224
+Thread Count : 2
+--------------------------------------------------
+Process Name : OpenConsole.exe
+PID          : 10492
+Thread Count : 7
+--------------------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 10532
+Thread Count : 8
+--------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 10644
+Thread Count : 27
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 10648
+Thread Count : 5
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 10680
+Thread Count : 7
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 10764
+Thread Count : 9
+--------------------------------------------------
+Process Name : NgcIso.exe
+PID          : 10848
+Thread Count : 2
+--------------------------------------------------
+Process Name : WindowsTerminal.exe
+PID          : 10864
+Thread Count : 10
+--------------------------------------------------
+Process Name : McUpdaterModule.exe
+PID          : 11048
+Thread Count : 5
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 11144
+Thread Count : 3
+--------------------------------------------------
+Process Name : unsecapp.exe
+PID          : 11236
+Thread Count : 2
+--------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 11328
+Thread Count : 8
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 11400
+Thread Count : 4
+--------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 11428
+Thread Count : 25
+--------------------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 11560
+Thread Count : 3
+--------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 11596
+Thread Count : 19
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 11696
+Thread Count : 2
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 12036
+Thread Count : 16
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 12176
+Thread Count : 8
+--------------------------------------------------
+Process Name : ollama app.exe
+PID          : 12196
+Thread Count : 10
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 12524
+Thread Count : 5
+--------------------------------------------------
+Process Name : SECOCL64.exe
+PID          : 12560
+Thread Count : 6
+--------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 12684
+Thread Count : 31
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 12960
+Thread Count : 5
+--------------------------------------------------
+Process Name : explorer.exe
+PID          : 13128
+Thread Count : 202
+--------------------------------------------------
+Process Name : LockApp.exe
+PID          : 13132
+Thread Count : 17
+--------------------------------------------------
+Process Name : Code.exe
+PID          : 13172
+Thread Count : 39
+--------------------------------------------------
+Process Name : python.exe
+PID          : 13212
+Thread Count : 3
+--------------------------------------------------
+Process Name : Code.exe
+PID          : 13236
+Thread Count : 9
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 13532
+Thread Count : 4
+--------------------------------------------------
+Process Name : TextInputHost.exe
+PID          : 13540
+Thread Count : 19
+--------------------------------------------------
+Process Name : msedge.exe
+PID          : 13580
+Thread Count : 66
+--------------------------------------------------
+Process Name : WmiPrvSE.exe
+PID          : 13584
+Thread Count : 3
+--------------------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 13588
+Thread Count : 3
+--------------------------------------------------
+Process Name : SecurityHealthService.exe
+PID          : 13688
+Thread Count : 5
+--------------------------------------------------
+Process Name : Code.exe
+PID          : 13792
+Thread Count : 29
+--------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 13796
+Thread Count : 22
+--------------------------------------------------
+Process Name : ShellExperienceHost.exe
+PID          : 13808
+Thread Count : 17
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 13824
+Thread Count : 6
+--------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 13920
+Thread Count : 29
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 14548
+Thread Count : 10
+--------------------------------------------------
+Process Name : msedge.exe
+PID          : 14552
+Thread Count : 13
+--------------------------------------------------
+Process Name : SearchIndexer.exe
+PID          : 14616
+Thread Count : 12
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 14672
+Thread Count : 8
+--------------------------------------------------
+Process Name : FileSyncHelper.exe
+PID          : 14788
+Thread Count : 4
+--------------------------------------------------
+Process Name : crashpad_handler.exe
+PID          : 14992
+Thread Count : 7
+--------------------------------------------------
+Process Name : conhost.exe
+PID          : 15328
+Thread Count : 3
+--------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 15380
+Thread Count : 8
+--------------------------------------------------
+Process Name : conhost.exe
+PID          : 15500
+Thread Count : 2
+--------------------------------------------------
+Process Name : msedge.exe
+PID          : 15508
+Thread Count : 12
+--------------------------------------------------
+Process Name : msedge.exe
+PID          : 15560
+Thread Count : 13
+--------------------------------------------------
+Process Name : Code.exe
+PID          : 15580
+Thread Count : 25
+--------------------------------------------------
+Process Name : CrossDeviceService.exe
+PID          : 15744
+Thread Count : 11
+--------------------------------------------------
+Process Name : Spotify.exe
+PID          : 15852
+Thread Count : 85
+--------------------------------------------------
+Process Name : dwm.exe
+PID          : 15904
+Thread Count : 19
+--------------------------------------------------
+Process Name : Code.exe
+PID          : 16036
+Thread Count : 25
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 16396
+Thread Count : 7
+--------------------------------------------------
+Process Name : Spotify.exe
+PID          : 16568
+Thread Count : 23
+--------------------------------------------------
+Process Name : msedge.exe
+PID          : 16788
+Thread Count : 25
+--------------------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 16800
+Thread Count : 21
+--------------------------------------------------
+Process Name : NisSrv.exe
+PID          : 17140
+Thread Count : 4
+--------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 17172
+Thread Count : 54
+--------------------------------------------------
+Process Name : Spotify.exe
+PID          : 17444
+Thread Count : 11
+--------------------------------------------------
+Process Name : SynTPEnh.exe
+PID          : 17624
+Thread Count : 6
+--------------------------------------------------
+Process Name : MidiSrv.exe
+PID          : 17648
+Thread Count : 4
+--------------------------------------------------
+Process Name : IGCC.exe
+PID          : 17796
+Thread Count : 8
+--------------------------------------------------
+Process Name : taskhostw.exe
+PID          : 18020
+Thread Count : 9
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 18032
+Thread Count : 10
+--------------------------------------------------
+Process Name : Spotify.exe
+PID          : 18060
+Thread Count : 27
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 18092
+Thread Count : 3
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 18304
+Thread Count : 7
+--------------------------------------------------
+Process Name : taskhostw.exe
+PID          : 18316
+Thread Count : 4
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 18348
+Thread Count : 9
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 18372
+Thread Count : 4
+--------------------------------------------------
+Process Name : OneDrive.exe
+PID          : 18740
+Thread Count : 41
+--------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 18844
+Thread Count : 51
+--------------------------------------------------
+Process Name : sihost.exe
+PID          : 18852
+Thread Count : 15
+--------------------------------------------------
+Process Name : conhost.exe
+PID          : 19148
+Thread Count : 5
+--------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 19176
+Thread Count : 54
+--------------------------------------------------
+Process Name : avpui.exe
+PID          : 19268
+Thread Count : 18
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 19304
+Thread Count : 3
+--------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 19356
+Thread Count : 10
+--------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 19580
+Thread Count : 57
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 19616
+Thread Count : 2
+--------------------------------------------------
+Process Name : Widgets.exe
+PID          : 19720
+Thread Count : 15
+--------------------------------------------------
+Process Name : RtkAudUService64.exe
+PID          : 19824
+Thread Count : 13
+--------------------------------------------------
+Process Name : SSScheduler.exe
+PID          : 19980
+Thread Count : 2
+--------------------------------------------------
+Process Name : OmenInstallMonitor.exe
+PID          : 19984
+Thread Count : 7
+--------------------------------------------------
+Process Name : dasHost.exe
+PID          : 20032
+Thread Count : 1
+--------------------------------------------------
+Process Name : SystemSettings.exe
+PID          : 20080
+Thread Count : 44
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 20160
+Thread Count : 12
+--------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 20328
+Thread Count : 8
+--------------------------------------------------
+Process Name : backgroundTaskHost.exe
+PID          : 20380
+Thread Count : 4
+--------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 20712
+Thread Count : 21
+--------------------------------------------------
+Process Name : OmenCommandCenterBackground.exe
+PID          : 20756
+Thread Count : 122
+--------------------------------------------------
+Process Name : dasHost.exe
+PID          : 20772
+Thread Count : 3
+--------------------------------------------------
+Process Name : msedge.exe
+PID          : 20796
+Thread Count : 26
+--------------------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 20860
+Thread Count : 3
+--------------------------------------------------
+Process Name : Spotify.exe
+PID          : 20920
+Thread Count : 6
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 21264
+Thread Count : 6
+--------------------------------------------------
+Process Name : RuntimeBroker.exe
+PID          : 21308
+Thread Count : 3
+--------------------------------------------------
+Process Name : msedgewebview2.exe
+PID          : 21540
+Thread Count : 10
+--------------------------------------------------
+Process Name : dllhost.exe
+PID          : 21600
+Thread Count : 2
+--------------------------------------------------
+Process Name : UserOOBEBroker.exe
+PID          : 21728
+Thread Count : 1
+--------------------------------------------------
+Process Name : svchost.exe
+PID          : 21764
+Thread Count : 28
+--------------------------------------------------
+Process Name : msedge.exe
+PID          : 21772
+Thread Count : 8
+--------------------------------------------------
+Process Name : ctfmon.exe
+PID          : 21776
+Thread Count : 14
+--------------------------------------------------
